@@ -1,0 +1,112 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "title",
+      "text": "",
+      "points": [
+        [
+          181.14754098360652,
+          173.6475409836066
+        ],
+        [
+          723.7704918032786,
+          324.46721311475414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          777.8688524590165,
+          242.50000000000003
+        ],
+        [
+          876.2295081967212,
+          442.50000000000006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          130.327868852459,
+          414.63114754098365
+        ],
+        [
+          194.26229508196718,
+          665.4508196721312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          187.70491803278685,
+          319.5491803278689
+        ],
+        [
+          766.3934426229508,
+          1186.7622950819673
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          192.62295081967204,
+          1253.9754098360656
+        ],
+        [
+          709.0163934426229,
+          1334.3032786885246
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          476.2295081967212,
+          1376.9262295081967
+        ],
+        [
+          553.2786885245902,
+          1427.7459016393443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "sergii.jpg",
+  "imageData": null,
+  "imageHeight": 1485,
+  "imageWidth": 1100
+}

@@ -1,0 +1,96 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          240.95652173913052,
+          171.30434782608697
+        ],
+        [
+          295.304347826087,
+          262.60869565217394
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          1638.7826086956522,
+          1658.2608695652173
+        ],
+        [
+          1708.3478260869565,
+          1756.086956521739
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          282.2608695652175,
+          95.21739130434784
+        ],
+        [
+          1386.608695652174,
+          1749.5652173913043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          1549.6521739130435,
+          99.56521739130437
+        ],
+        [
+          2743.1304347826085,
+          1808.2608695652173
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          2569.217391304348,
+          86.52173913043481
+        ],
+        [
+          2706.1739130434785,
+          164.7826086956522
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "apocalipsis.jpg",
+  "imageData": null,
+  "imageHeight": 1960,
+  "imageWidth": 3008,
+  "text": ""
+}

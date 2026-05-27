@@ -1,0 +1,61 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          170.909090909091,
+          845.5
+        ],
+        [
+          254.5454545454545,
+          1018.2272727272727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          194.5454545454545,
+          700.0454545454546
+        ],
+        [
+          254.5454545454545,
+          767.3181818181819
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          203.63636363636374,
+          150.9545454545455
+        ],
+        [
+          852.7272727272727,
+          1352.7727272727273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "mortirii.jpg",
+  "imageData": null,
+  "imageHeight": 1651,
+  "imageWidth": 1200
+}

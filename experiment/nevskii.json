@@ -1,0 +1,95 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          67.21311475409834,
+          440.0
+        ],
+        [
+          106.55737704918033,
+          508.8524590163934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          78.68852459016387,
+          1069.5081967213116
+        ],
+        [
+          106.55737704918033,
+          1113.7704918032787
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "small_initial",
+      "text": "",
+      "points": [
+        [
+          90.1639344262295,
+          1166.2295081967213
+        ],
+        [
+          129.5081967213115,
+          1217.049180327869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          86.88524590163934,
+          120.32786885245898
+        ],
+        [
+          559.0163934426229,
+          1259.672131147541
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          581.9672131147541,
+          110.49180327868848
+        ],
+        [
+          1104.9180327868853,
+          1262.9508196721313
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "nevskii.jpg",
+  "imageData": null,
+  "imageHeight": 1480,
+  "imageWidth": 1200
+}

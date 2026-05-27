@@ -1,0 +1,112 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          269.21739130434787,
+          110.43478260869568
+        ],
+        [
+          834.4347826086957,
+          1764.782608695652
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          899.6521739130435,
+          114.78260869565219
+        ],
+        [
+          1458.3478260869565,
+          1795.2173913043478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          838.7826086956522,
+          621.304347826087
+        ],
+        [
+          1080.0869565217392,
+          1047.391304347826
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          2112.695652173913,
+          1371.3043478260868
+        ],
+        [
+          2377.913043478261,
+          1753.9130434782608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          1538.7826086956522,
+          121.30434782608697
+        ],
+        [
+          2112.695652173913,
+          1775.6521739130433
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          2173.5652173913045,
+          125.6521739130435
+        ],
+        [
+          2710.521739130435,
+          1795.2173913043478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paremeynik.jpg",
+  "imageData": null,
+  "imageHeight": 1960,
+  "imageWidth": 3008
+}

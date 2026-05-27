@@ -1,0 +1,78 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ornament",
+      "text": "",
+      "points": [
+        [
+          72.72727272727275,
+          66.59090909090918
+        ],
+        [
+          916.3636363636363,
+          512.0454545454546
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ornament",
+      "text": "",
+      "points": [
+        [
+          772.7272727272727,
+          481.1363636363637
+        ],
+        [
+          950.909090909091,
+          1035.6818181818182
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          63.63636363636374,
+          504.77272727272737
+        ],
+        [
+          332.72727272727275,
+          830.2272727272727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          136.36363636363637,
+          515.6818181818182
+        ],
+        [
+          794.5454545454545,
+          1341.1363636363635
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "samara_manuscript.jpg",
+  "imageData": null,
+  "imageHeight": 1635,
+  "imageWidth": 1200
+}

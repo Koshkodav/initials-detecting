@@ -1,0 +1,129 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "title",
+      "text": "",
+      "points": [
+        [
+          1571.3913043478262,
+          180.0
+        ],
+        [
+          2112.695652173913,
+          282.17391304347825
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          1699.6521739130435,
+          60.43478260869568
+        ],
+        [
+          1823.5652173913045,
+          156.08695652173915
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          2023.5652173913045,
+          103.9130434782609
+        ],
+        [
+          2280.086956521739,
+          199.56521739130434
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          1536.608695652174,
+          538.6956521739131
+        ],
+        [
+          1669.2173913043478,
+          727.8260869565217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          1560.5217391304348,
+          271.30434782608694
+        ],
+        [
+          2104.0,
+          1786.5217391304348
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          2140.9565217391305,
+          195.21739130434784
+        ],
+        [
+          2682.2608695652175,
+          1695.2173913043478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          1669.2173913043478,
+          1777.8260869565215
+        ],
+        [
+          2417.0434782608695,
+          1901.7391304347825
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pyatiknizhie.jpg",
+  "imageData": null,
+  "imageHeight": 1960,
+  "imageWidth": 3008
+}

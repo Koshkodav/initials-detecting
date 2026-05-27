@@ -1,0 +1,79 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          128.78787878787878,
+          228.4848484848485
+        ],
+        [
+          306.06060606060606,
+          411.8181818181818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          1140.909090909091,
+          420.90909090909093
+        ],
+        [
+          1290.9090909090908,
+          595.1515151515151
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          266.6666666666667,
+          57.27272727272728
+        ],
+        [
+          1065.1515151515152,
+          1113.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          1236.3636363636363,
+          98.18181818181819
+        ],
+        [
+          2110.6060606060605,
+          1105.7575757575755
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "kondakar.jpg",
+  "imageData": null,
+  "imageHeight": 1360,
+  "imageWidth": 2400,
+  "text": ""
+}

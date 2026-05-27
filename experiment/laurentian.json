@@ -1,0 +1,61 @@
+{
+  "version": "0.2.22",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "text": "",
+      "points": [
+        [
+          185.2459016393442,
+          62.950819672131104
+        ],
+        [
+          1129.5081967213114,
+          1282.6229508196723
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "note",
+      "text": "",
+      "points": [
+        [
+          593.4426229508196,
+          1295.737704918033
+        ],
+        [
+          645.9016393442622,
+          1364.5901639344263
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "big_initial",
+      "text": "",
+      "points": [
+        [
+          175.4098360655737,
+          871.1475409836065
+        ],
+        [
+          257.37704918032784,
+          1020.3278688524589
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "laurentian.jpg",
+  "imageData": null,
+  "imageHeight": 1480,
+  "imageWidth": 1200
+}
